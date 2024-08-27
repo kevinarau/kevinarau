@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h4 align="left">Sou Kevin Araujo, um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e inovação. Atualmente, estou aprofundando meu conhecimento em Java com Framework Spring</h4>
+<h4 align="left">° Sou Kevin Araujo, um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e inovação. Atualmente, estou aprofundando meu conhecimento em Java com Framework Spring</h4>
 
 ###
 
@@ -32,7 +32,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kevinarau&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false&order=1" height="145" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinarau&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=prussian&hide_border=true&order=2" height="128" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinarau&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=prussian&hide_border=false&order=2" height="128" alt="languages graph"  />
 </div>
 
 ###
