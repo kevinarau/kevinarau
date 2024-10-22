@@ -12,7 +12,7 @@
 ###
 <br clear="both">
 
-<h4 align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Java com Spring.<br>🎯 Goals: Ser um back-end.</h4>
+<h4 align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Java com Spring.<br>🎯 Goals: Ser Desenvolvedor back-end.</h4>
 
 ###
 <h2 align="left">I code with</h2>
