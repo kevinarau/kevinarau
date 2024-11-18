@@ -8,7 +8,7 @@
 
 Nos meus projetos, integro o Spring Framework para construir soluções escaláveis e seguras, enquanto utilizo SQL para gerenciar e manipular bases de dados de forma eficiente. Meu foco está em estruturar sistemas que não apenas atendam às necessidades funcionais, mas que também sejam otimizados para desempenho e manutenção.
 
-Estou sempre em busca de novos desafios e aprendizados, o que se reflete nos projetos que compartilho e mantenho em meu repositório. Desde aplicações RESTful com implementações de DTOs e padrões de camadas até sistemas que empregam autenticação e autorização com Spring Security, meus projetos demonstram meu comprometimento com soluções práticas e bem-estruturadas.</h4>
+Estou sempre em busca de novos desafios e aprendizados, o que se reflete nos projetos que compartilho e mantenho em meu repositório. Desde aplicações RESTful com implementações de DTOs e padrões de camadas, meus projetos demonstram meu comprometimento com soluções práticas e bem-estruturadas.</h4>
 
 ###
 <h2 align="left">About me</h2>
