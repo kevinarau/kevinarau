@@ -6,7 +6,7 @@
 
 <h4 align="left">° Sou um desenvolvedor Back-end com uma sólida formação em Análise e Desenvolvimento de Sistemas e experiência prática no desenvolvimento de projetos com foco em tecnologias como Java, Spring Framework e SQL. Minha trajetória inclui a criação de APIs robustas, aplicações web e sistemas orientados a dados, aplicando boas práticas de programação e arquitetura em cada etapa do desenvolvimento.
 
-Nos meus projetos, integro o Spring Framework para construir soluções escaláveis e seguras, enquanto utilizo SQL para gerenciar e manipular bases de dados de forma eficiente. Meu foco está em estruturar sistemas que não apenas atendam às necessidades funcionais, mas que também sejam otimizados para desempenho e manutenção.
+Nos meus projetos, integro o Spring Framework para construir soluções escaláveis e seguras, enquanto utilizo SQL para gerenciar e manipular bases de dados Mysql de forma eficiente. Meu foco está em estruturar sistemas que não apenas atendam às necessidades funcionais, mas que também sejam otimizados para desempenho e manutenção.
 
 Estou sempre em busca de novos desafios e aprendizados, o que se reflete nos projetos que compartilho e mantenho em meu repositório. Desde aplicações RESTful com implementações de DTOs e padrões de camadas, meus projetos demonstram meu comprometimento com soluções práticas e bem-estruturadas.</h4>
 
